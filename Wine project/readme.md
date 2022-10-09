@@ -8,5 +8,5 @@
 Для анализа используется набор данных из **Kaggle**, собранный винным энтузиастом с ником zackthoutt, https://www.kaggle.com/datasets/zynicide/wine-reviews  
 Локальная копия https://drive.google.com/open?id=1YcJ-Tg5M3tyYQF8zhLpHAe_kmItXJPVu&authuser=dmitry.mokin%40gmail.com&usp=drive_fs
 
-Также используются данные Продовольственной и сельскохозяйственной организации Объединенных Наций https://www.fao.org/faostat/ru/#home
+Также используются данные Продовольственной и сельскохозяйственной организации Объединенных Наций https://www.fao.org/faostat/ru/#home  
 Локальная копия подгружена на GitHub.
